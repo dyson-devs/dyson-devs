@@ -14,7 +14,7 @@
 * **Vice President**, Computer Science Student Association (2024)
 
 **Competitive Programming**
-* **133rd Place**, Taiwan Online Programming Contest (TOPC) (2025)
+* **133rd Place**, National Collegiate Programming Contest (NCPC) (2025)
 * **Solved 5 Problems (Top 2.4%)**, Collegiate Programming Examination (CPE) (2025)
 
 ---
